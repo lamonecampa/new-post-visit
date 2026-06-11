@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/new-post-visit/', // 👈 TARUH DI SINI (Untuk memperbaiki halaman blank di GitHub Pages)
+    base: '/', // 👈 UBAH MENJADI '/' (Agar berjalan normal di Vercel)
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
