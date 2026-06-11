@@ -1,0 +1,6 @@
+{
+  "name": "Generator Laporan Kunjungan",
+  "description": "Sistem pengisian laporan kunjungan teknis (service report) dengan ekspor Word & PDF, checklist Yes/No/NA, dan lampiran lampiran (Appendix) file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
